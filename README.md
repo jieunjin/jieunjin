@@ -1,8 +1,7 @@
 <div align="start">
   <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">👩‍💻 Backend Developer 최지은 <a href="mailto:wldms5221@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white">
-      </a></h2> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">👩🏻‍💻 Backend Developer</h2> 
+      <span>안녕하세요. 백엔드개발자 최지은입니다. 👋🏻</span> 
   </div>
   <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🛠️ Tech Stacks</h2>
@@ -27,7 +26,6 @@
   </div>
   <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">📚 Education</h2>
-    <br>
     <div style="text-align: left;">
       <h4>- CodeSquad Masters Java 백엔드 (2024.01 ~ 2024.08)</h4>
     </div>
