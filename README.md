@@ -29,7 +29,7 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">📚 Education</h2>
     <br>
     <div style="text-align: left;">
-      - CodeSquad Masters Java 백엔드 (2024.01 ~ 2024.08
+      <h4>- CodeSquad Masters Java 백엔드 (2024.01 ~ 2024.08)</h4>
     </div>
   </div>
 </div>
