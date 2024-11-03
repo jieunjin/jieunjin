@@ -27,7 +27,8 @@
   <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">📚 Education</h2>
     <div style="text-align: left;">
-      <h4>- CodeSquad Masters Java 백엔드 (2024.01 ~ 2024.08)</h4>
+      <h4>- CodeSquad Masters Java 백엔드 (24.01 ~ 24.08)</h4>
+      <h4>- 우아한테크코스 프리코스 (23.10 ~ 23.11)</h4>
     </div>
   </div>
 </div>
